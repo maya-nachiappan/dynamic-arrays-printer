@@ -4,7 +4,6 @@ build/
 *.xcodeproj/project.xcworkspace/xcuserdata/
 DerivedData/
 .DS_Store
-dynamic array printer.xcodeproj/project.pbxproj
 
 # Prerequisites
 *.d
